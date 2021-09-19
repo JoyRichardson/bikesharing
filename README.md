@@ -8,7 +8,7 @@ After a trip to New York City for two weeks, using CitiBike, you want to investi
 We need to analyze the NYC data to base our proposal on.  Our research needs to include when, where, who, and how long to support a solid business proposal for a bikeshare model in Des Moines.
 
 ## Resources
-Software(s): Tableau Public 2021.3, .csv files, Pandas, and Visual Studio Code 1.57.1
+Software(s): Tableau Public 2021.3, .csv files, Python 3.7, Pandas, and Visual Studio Code 1.57.1
 
 ## Link to Dashboards
 Module Lesson:  https://public.tableau.com/views/Module14Lesson/NYCStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
@@ -38,7 +38,7 @@ Again, the number of males users is approximately 66% compared to female users a
 
 ![](Challenge5.PNG)<br/>
 
-The majority of users are male subscribers using the service for commuting.  Short-term customers, possibly tourists, use the servie more on the weekends.
+The majority of users are male subscribers using the service for commuting.  Short-term customers, possibly tourists, use the service more on the weekends.
 
 
 ### We need to know the number of bike trips and the proportion of short-term customers to annual subscribers to help us predict the volume and customer breakdown in Des Moines.
@@ -83,7 +83,7 @@ The majority of users are male subscribers using the service for commuting.  Sho
 
 ## Summary
 
-There is a sound basis for a bike-share business to support alternative commuter transportation as well as availability for weekend outings, potentially both for tourists and family outings.
+There is a sound basis for a bikeshare business to support alternative commuter transportation as well as availability for weekend outings, potentially both for tourists and family outings.
 
 Recommendations for further analysis includes:
 
